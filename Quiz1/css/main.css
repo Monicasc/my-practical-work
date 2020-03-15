@@ -1,0 +1,22 @@
+
+body {
+  background-image: url('example_img_girl.jpg');
+  background-repeat: no-repeat;
+  
+}
+</style>
+	color:rgb(255,255,255);
+	color:#f0f0f0;
+	color:#ffa500;
+	color:white;
+}
+h1{
+	color:black;
+}
+p{
+	font-family: Batang;
+	font-size:20px;
+border-style: dotted;
+border-width: 2px;
+border-color:blue;
+}
